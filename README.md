@@ -1,2 +1,2 @@
 # UI51
-Developing Web Apps with SAPUI5
+Course OpenSAP - Developing Web Apps with SAPUI5
